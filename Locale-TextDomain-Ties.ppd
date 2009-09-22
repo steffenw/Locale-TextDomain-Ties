@@ -1,0 +1,8 @@
+<SOFTPKG NAME="Locale-TextDomain-Ties" VERSION="0,03,0,0">
+    <TITLE>Locale-TextDomain-Ties</TITLE>
+    <ABSTRACT>Locale::TextDomain::Ties - Tying all translating subs to a hash</ABSTRACT>
+    <AUTHOR>Steffen Winkler &lt;steffenw at cpan.org&gt;</AUTHOR>
+    <IMPLEMENTATION>
+        <CODEBASE HREF="PPM-Locale-TextDomain-Ties-0.03.tar.gz" />
+    </IMPLEMENTATION>
+</SOFTPKG>
