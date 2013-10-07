@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Steffen Winkler <cpan at steffen-winkler.de>\n"
+"Language-Team: \n"
+
+msgid "text1 original"
+msgstr "text1 translated"
+
+msgid "text2 original {text}"
+msgstr "text2 translated {text}"
+
+msgid "text3 original singular"
+msgid_plural "text3 original plural"
+msgstr[0] "text3 translated singular"
+msgstr[1] "text3 translated plural"
+
+msgid "text4 original {num} singular"
+msgid_plural "text4 original {num} plural"
+msgstr[0] "text4 translated {num} singular"
+msgstr[1] "text4 translated {num} plural"
+
+msgctxt "special"
+msgid "ctext1 original"
+msgstr "ctext1 translated"
+
+msgctxt "special"
+msgid "ctext2 original {text}"
+msgstr "ctext2 translated {text}"
+
+msgctxt "special"
+msgid "ctext3 original singular"
+msgid_plural "ctext3 original plural"
+msgstr[0] "ctext3 translated singular"
+msgstr[1] "ctext3 translated plural"
+
+msgctxt "special"
+msgid "ctext4 original {num} singular"
+msgid_plural "ctext4 original {num} plural"
+msgstr[0] "ctext4 translated {num} singular"
+msgstr[1] "ctext4 translated {num} plural"

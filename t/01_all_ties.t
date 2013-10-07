@@ -10,7 +10,7 @@ use Test::Deep;
 BEGIN {
     require_ok('Tie::Sub');
     require_ok('Locale::TextDomain');
-    Locale::TextDomain->import( qw(test ./example/LocaleData/) );
+    Locale::TextDomain->import( qw(test ./t/LocaleData) );
 }
 
 tie my %__x,   'Tie::Sub', sub { return __x(shift, @_) };

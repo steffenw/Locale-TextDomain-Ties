@@ -3,7 +3,7 @@ package Locale::TextDomain::Ties;
 use strict;
 use warnings;
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 # $Id$
 
@@ -19,7 +19,7 @@ Locale::TextDomain::Ties - Tying all translating subs to a hash
 
 =head1 VERSION
 
-0.03
+0.04
 
 =head1 SYNOPSIS
 
@@ -100,9 +100,9 @@ not known
 
 =head1 SEE ALSO
 
-L<Locale::TextDomain> Localisation framework
+L<Locale::TextDomain|Locale::TextDomain> Localisation framework
 
-L<Tie::Sub> The idea to use an arrayref as hash key too.
+L<Tie::Sub|Tie::Sub> The idea to use an arrayref as hash key too.
 
 =head1 AUTHOR
 
@@ -110,7 +110,7 @@ Steffen Winkler
 
 =head1 LICENSE AND COPYRIGHT
 
-Copyright (c) 2009,
+Copyright (c) 2009 - 2010,
 Steffen Winkler
 C<< <steffenw at cpan.org> >>.
 All rights reserved.
@@ -118,5 +118,3 @@ All rights reserved.
 This module is free software;
 you can redistribute it and/or modify it
 under the same terms as Perl itself.
-
-=cut
